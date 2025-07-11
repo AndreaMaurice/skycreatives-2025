@@ -38,7 +38,7 @@ export default function ContactUs({ contact, contactdesc, contactform }) {
         </div>
         <div className='flex items-center gap-2 pt-0.5'>
             <FaLocationDot />
-            <p>Green Bay, Wisconsin</p>
+            <p>Sturgeon Bay, Wisconsin</p>
         </div>
         </div>
         <div className="flex flex-col mx-auto pt-[10px]">
